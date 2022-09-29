@@ -1,0 +1,27 @@
+let books =  
+`[
+    {"title": "Sandstorm",
+    "author": "James Rollins",
+    "read": false,
+    "img": "https://m.media-amazon.com/images/P/B000FC1SCW.01._SCLZZZZZZZ_SX500_.jpg"
+   },
+   {"title": "Train Man",
+    "author": "Nakano Hitori",
+    "read": true,
+    "img": "https://m.media-amazon.com/images/P/B00AN2KKV4.01._SCLZZZZZZZ_SX500_.jpg"
+   },
+   {"title": "The Mountain Between Us",
+    "author": " Charles Martin",
+    "read": true,
+    "img":"https://m.media-amazon.com/images/P/B01MR92RBM.01._SCLZZZZZZZ_SX500_.jpg"
+   },
+   {"title": "QI: The Book of General Ignorance",
+    "author": "John Lloyd",
+    "read": true,
+    "img":"https://m.media-amazon.com/images/P/B004AP9LP6.01._SCLZZZZZZZ_SX500_.jpg"
+   },
+   {"title": "Around the World in Eighty Days",
+    "author": "Jules Verne",
+    "read": false, 
+    "img":"https://m.media-amazon.com/images/P/B08LWXW6RJ.01._SCLZZZZZZZ_SX500_.jpg"
+   }]`

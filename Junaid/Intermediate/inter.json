@@ -1,6 +1,4 @@
-{
-    
-"employee" : [{
+let employee = `[{
     "ID": "1",
     "fName": "Craig",
     "lName": "Farser",
@@ -78,5 +76,4 @@
     "email": "idris.elba@gmail.com",
     "job": "Surgeon",
     "salary": "230k"
-    }]
-}
+    }]`;
