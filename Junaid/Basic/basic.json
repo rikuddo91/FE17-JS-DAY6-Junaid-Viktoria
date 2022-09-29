@@ -1,3 +1,5 @@
+// let is red because it's java script inside JSON which it does support but with parse in Java, we conver it into java script so it works  ¯\_(ツ)_/¯ 
+
 let favfood = `[{
     "sandwich": "hamburger",
     "calories": "260"
