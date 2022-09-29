@@ -3,7 +3,7 @@ console.log(data);
 
 for (let index in data) {
     document.getElementById("result").innerHTML +=
-        `<div class="card" style="width: 18%; float:left; margin:1%; col-2">
+        `<div class="card" style="width: 18%; float:left; margin:1%;">
                 <img src="${data[index].img}" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title" id="color${index}">${data[index].title}</h5>
