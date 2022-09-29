@@ -1,0 +1,8 @@
+let food = `
+[{ "sandwiches":"hamburger",
+"calories":"260"},
+{
+    "fries_size": "Large French Fries",
+    "calories": "570"}
+]
+`
